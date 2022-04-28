@@ -1,0 +1,280 @@
+
+[
+  
+  {
+    "comentario": "Falta aumentarles:  TIPO/VARIEDAD,  UNIDADES, Especificaciones/imagenes",
+    "precio": 500.00,
+    "cantidad": 0,
+    "descuento": 510.00,
+    "cmr" : 400.00,
+    "id": 1,
+    "descripcion" : "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s.",
+    "marca": "Nestle",
+    "tipo": "bebida",
+    "title": "Café",
+    "tienda": true,
+    "despacho": true,
+    "imagenes":[
+      "https://picsum.photos/id/0/600",
+      "https://picsum.photos/id/1/600",
+      "https://picsum.photos/id/2/600",
+      "https://picsum.photos/id/3/600",
+      "https://picsum.photos/id/4/600",
+      "https://picsum.photos/id/5/600"
+    ]
+  },
+  
+  
+  {
+    "precio": 30.00,
+    "descuento": 35.00,
+    "descripcion" : "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s.",
+    "cmr": 0,
+    "cantidad": 0,
+    "id": 2,
+    "marca": "Pizza Raul",
+    "tipo": "comida",
+    "title": "Pizza",
+    "tienda": true,
+    "despacho": false,
+    "imagenes":[
+      "https://picsum.photos/id/10/600",
+      "https://picsum.photos/id/11/600",
+      "https://picsum.photos/id/12/600",
+      "https://picsum.photos/id/13/600",
+      "https://picsum.photos/id/14/600",
+      "https://picsum.photos/id/15/600"
+    ]
+  },
+  {
+    "precio": 100.00,
+    "descuento": 125.00,
+    "cmr" : 80.00,
+    "cantidad": 0,
+    "descripcion" : "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s.",
+    "id": 3,
+    "marca": "Cielo",
+    "tipo": "bebida",
+    "title": "Agua",
+    "tienda": false,
+    "despacho": false,
+    "imagenes":[
+      "https://picsum.photos/id/20/600",
+      "https://picsum.photos/id/21/600",
+      "https://picsum.photos/id/22/600",
+      "https://picsum.photos/id/23/600",
+      "https://picsum.photos/id/24/600",
+      "https://picsum.photos/id/25/600"
+    ]    
+  },
+  {
+    "precio": 50.00,
+    "descuento": 51.00,
+    "cmr" : 45.00,
+    "descripcion" : "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s.",
+    "id": 4,
+    "cantidad": 0,
+    "marca": "Tottus",
+    "tipo": "comida",
+    "title": "Sandía",
+    "tienda": true,
+    "despacho": true,
+    "imagenes":[
+      "https://picsum.photos/id/30/600",
+      "https://picsum.photos/id/31/600",
+      "https://picsum.photos/id/32/600",
+      "https://picsum.photos/id/33/600",
+      "https://picsum.photos/id/34/600",
+      "https://picsum.photos/id/35/600"
+    ]
+  },
+  {
+    "precio": 10.00,
+    "descuento": 0,
+    "cmr" : 0,
+    "cantidad": 0,
+    "descripcion" : "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s.",
+    "id": 5,
+    "marca": "Tottus",
+    "tipo": "comida",
+    "title": "Mango",
+    "tienda": false,
+    "despacho": true,
+    "imagenes":[
+      "https://picsum.photos/id/40/600",
+      "https://picsum.photos/id/41/600",
+      "https://picsum.photos/id/42/600",
+      "https://picsum.photos/id/43/600",
+      "https://picsum.photos/id/44/600",
+      "https://picsum.photos/id/45/600"
+    ]
+  },
+  {
+    "precio": 150.00,
+    "descuento": 170.0,
+    "cmr" : 0,
+    "cantidad": 0,
+    "id": 6,
+    "marca": "Cuzqueña",
+    "tipo": "bebida",
+    "title": "Cerveza Negra bien negra",
+    "tienda": true,
+    "despacho": false,
+    "imagenes":[
+      "https://picsum.photos/id/50/600",
+      "https://picsum.photos/id/51/600",
+      "https://picsum.photos/id/52/600",
+      "https://picsum.photos/id/53/600",
+      "https://picsum.photos/id/54/600",
+      "https://picsum.photos/id/55/600"
+    ]
+  },
+  {
+    "precio": 20.00,
+    "descuento": 25.50,
+    "cmr" : 10.00,
+    "cantidad": 0,
+    "descripcion" : "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s.",
+    "id": 7,
+    "marca": "Inca Kola",
+    "tipo":"bebida",
+    "title": "Gaseosa",
+    "tienda": true,
+    "despacho": true,
+    "imagenes":[
+      "https://picsum.photos/id/60/600",
+      "https://picsum.photos/id/61/600",
+      "https://picsum.photos/id/62/600",
+      "https://picsum.photos/id/63/600",
+      "https://picsum.photos/id/64/600",
+      "https://picsum.photos/id/65/600"
+    ]
+  },
+  {
+    "precio": 34.00,
+    "descuento": 40.00,
+    "cmr" : 0,
+    "cantidad": 0,
+    "descripcion" : "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s.",
+    "id": 8,
+    "marca": "Nestle",
+    "tipo":"comida",
+    "title": "Chisitos",
+    "tienda": true,
+    "despacho": true,
+    "imagenes":[
+      "https://picsum.photos/id/70/600",
+      "https://picsum.photos/id/71/600",
+      "https://picsum.photos/id/72/600",
+      "https://picsum.photos/id/73/600",
+      "https://picsum.photos/id/74/600",
+      "https://picsum.photos/id/75/600"
+    ]
+  },
+  {
+    "precio": 54.00,
+    "descuento": 69.00,
+    "cmr" : 0,
+    "cantidad": 0,
+    "descripcion" : "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s.",
+    "id": 9,
+    "marca": "Laive",
+    "tipo":"bebida",
+    "title": "Jugos",
+    "tienda": true,
+    "despacho": true,
+    "imagenes":[
+      "https://picsum.photos/id/80/600",
+      "https://picsum.photos/id/81/600",
+      "https://picsum.photos/id/82/600",
+      "https://picsum.photos/id/83/600",
+      "https://picsum.photos/id/84/600",
+      "https://picsum.photos/id/85/600"
+    ]
+  },
+  {
+    "precio": 79.00,
+    "descuento": 80.00,
+    "cmr" : 60.00,
+    "cantidad": 0,
+    "descripcion" : "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s.",
+    "id": 10,
+    "marca": "Nestle",
+    "tipo":"comida",
+    "title": "Rellenitas",
+    "tienda": false,
+    "despacho": true,
+    "imagenes":[
+      "https://picsum.photos/id/90/600",
+      "https://picsum.photos/id/91/600",
+      "https://picsum.photos/id/92/600",
+      "https://picsum.photos/id/93/600",
+      "https://picsum.photos/id/94/600",
+      "https://picsum.photos/id/95/600"
+    ]
+  },
+  {
+    "precio": 1400.00,
+    "descuento": 1500.00,
+    "cmr" : 1300.00,
+    "cantidad": 0,
+    "descripcion" : "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s.",
+    "id": 11,
+    "marca": "PC - Gamer",
+    "tipo": "electro",
+    "title": "Computadora",
+    "tienda": true,
+    "despacho": true,
+    "imagenes":[
+      "https://picsum.photos/id/100/600",
+      "https://picsum.photos/id/101/600",
+      "https://picsum.photos/id/102/600",
+      "https://picsum.photos/id/103/600",
+      "https://picsum.photos/id/104/600",
+      "https://picsum.photos/id/105/600"
+    ]
+  },
+  {
+    "precio": 750.00,
+    "descuento": 890.00,
+    "cmr" : 700.00,
+    "cantidad": 0,
+    "descripcion" : "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s.",
+    "id": 12,
+    "marca": "LG",
+    "tipo": "electro",
+    "title": "Monitor",
+    "tienda": true,
+    "despacho": false,
+    "imagenes":[
+      "https://picsum.photos/id/110/600",
+      "https://picsum.photos/id/111/600",
+      "https://picsum.photos/id/112/600",
+      "https://picsum.photos/id/113/600",
+      "https://picsum.photos/id/114/600",
+      "https://picsum.photos/id/115/600"
+    ]
+  },
+  {
+    "precio": 1750.00,
+    "descuento": 2100.00,
+    "cmr" : 1400.00,
+    "descripcion" : "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s.",
+    "id": 13,
+    "cantidad": 0,
+    "marca": "Intel",
+    "tipo": "electro",
+    "title": "Procesador",
+    "tienda": false,
+    "despacho": true,
+    "imagenes":[
+      "https://picsum.photos/id/120/600",
+      "https://picsum.photos/id/121/600",
+      "https://picsum.photos/id/122/600",
+      "https://picsum.photos/id/123/600",
+      "https://picsum.photos/id/124/600",
+      "https://picsum.photos/id/125/600"
+    ]
+  }
+  
+]
